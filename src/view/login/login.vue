@@ -1,7 +1,7 @@
 <template>
       <div class="login-wrap" :style="divimg">
       <div>
-         <p class="p-title">LCG我爱编码,蛟龙在线,欢迎点评</p>
+         <p class="p-title">khh我爱编码,蛟龙在线,欢迎点评</p>
       </div>
         <div class="ms-login">
           <div class="ms-title">
